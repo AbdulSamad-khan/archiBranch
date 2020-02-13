@@ -4,7 +4,10 @@ if($hungry == "yes"){
   echo "Biryani";
   echo "Burger";
 }else{
-  echo "do your work";
+  $thirsty = "yes";
+  if($tirsty == "yes"){
+    echo "drink water";
+  }
 }
 
  ?>

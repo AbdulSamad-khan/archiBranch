@@ -7,6 +7,7 @@ if($hungry == "yes"){
   $thirsty = "yes";
   if($tirsty == "yes"){
     echo "drink water";
+    echo "Soda";
   }
 }
 

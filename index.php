@@ -5,7 +5,11 @@ if($hungry == "yes"){
   echo "Burger";
   echo "Pizza";
 }else{
-  echo "do your work";
+  $thirsty = "yes";
+  if($tirsty == "yes"){
+    echo "drink water";
+    echo "Soda";
+  }
 }
 
  ?>
